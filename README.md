@@ -19,11 +19,11 @@ http://localhost:8082/
 ```
 - [Swagger](https://swagger.io/)
 ```http request
-http://localhost:8080/swagger-ui/index.html#
+http://localhost:8082/swagger-ui/index.html#
 ```
 - [H2 Database](https://www.h2database.com/html/main.html)
 ```http request
-http://localhost:8080/h2-console
+http://localhost:8082/h2-console
 ```
 
 Chave SSH para o clone do projeto: git@github.com:lucashmad/PicPay-Transaction.git
